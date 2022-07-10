@@ -1,0 +1,11 @@
+Sentiment,id,Date,Query,User,Tweet
+4,2014351367,Wed Jun 03 01:14:33 PDT 2009,NO_QUERY,cathyleehart,@just_tam21 hahah its kind of the same as adelaides except a bit bigger
+4,1984531826,Sun May 31 15:17:28 PDT 2009,NO_QUERY,carlawaslike,@Austinjamest sweeeet can't wait to go there with you guys when i get back!
+4,2185079853,Mon Jun 15 16:51:18 PDT 2009,NO_QUERY,Rommellll,You said you changed how wrong i proved you  now whos on the other side.
+4,1998128979,Mon Jun 01 18:02:23 PDT 2009,NO_QUERY,pauljopling,I can't wait for New Moon after seeing the trailer
+4,2182994010,Mon Jun 15 13:54:26 PDT 2009,NO_QUERY,thisgoodlife,@nicolassa new drum carder? SWEET!
+4,2064557508,Sun Jun 07 06:35:30 PDT 2009,NO_QUERY,xCitylights,i have mastered the pirouette. i feel happy  now to master those damn glissades...
+0,2265877228,Sun Jun 21 07:29:05 PDT 2009,NO_QUERY,isdead,I'm planning to buy a Dell Mini9 on next payday for the iPhone application development... poor me
+0,1986787989,Sun May 31 19:19:14 PDT 2009,NO_QUERY,ohdearr,kristin stewertvis awwwwwkward. and  OMG NEW MOON LOOKS AMAZINGGGG taylor launtner omgggg do me. too many tweets sorry
+4,2061589602,Sat Jun 06 21:11:09 PDT 2009,NO_QUERY,mirandamartinez,"@shannonweiley hi Shannon! Movies are unrelated to raw, actually.  please go to http://www.barufilms.com for more info about my films."
+4,1573026905,Mon Apr 20 23:26:03 PDT 2009,NO_QUERY,Sleeperkid,"@MalloyMartini You can reach me at sleeperkid@sleeperkidsworld.com.  And while I love female dogs, I'd rather have pretty ladies over "
